@@ -1,0 +1,23 @@
+[
+    {
+        "user_hash":"2bd806c97f0e00af1a1fc3328fa763a9269723c8db8fac4f93af71db186d6e90",
+        "total_events":3,
+        "failed_logins":2,
+        "total_bytes":520,
+        "unique_ips":1
+    },
+    {
+        "user_hash":"81b637d8fcd2c6da6359e6963113a1170de795e4b725b84d1e0b4cfd9ec58ce9",
+        "total_events":2,
+        "failed_logins":0,
+        "total_bytes":1210,
+        "unique_ips":1
+    },
+    {
+        "user_hash":"b9dd960c1753459a78115d3cb845a57d924b6877e805b08bd01086ccdf34433c",
+        "total_events":1,
+        "failed_logins":1,
+        "total_bytes":100,
+        "unique_ips":1
+    }
+]

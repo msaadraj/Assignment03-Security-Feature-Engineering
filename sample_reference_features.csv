@@ -1,0 +1,3 @@
+user_hash,total_events,failed_logins,total_bytes,unique_ips
+samplehash1,5,2,1400,1
+samplehash2,3,0,600,1
